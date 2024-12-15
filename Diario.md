@@ -38,7 +38,7 @@ En la sesión 7, jugamos a un juego nuevo y muy entretenido llamado **skull king
 ## Sesión 8 y 9
 ### *Skull King: El despertar de un viejo enemigo*
 
-En la octava sesión los alumnos de Stem Bach, seguimos jugando a **Skull King**, pero en esta sesión probamos unas reglas alternativas al juego base que se llama: **El despertar de un viejo enemigo**, que para mi es el mejor juego de todos, mientras que en la novena sesión siguimos jugando al **skull king** con las reglas nuevas perfeccionando las nuevas cartas.
+En la octava sesión los alumnos de Stem Bach, seguimos jugando a **Skull King**, pero en esta sesión probamos unas reglas alternativas al juego base que se llama: **El despertar de un viejo enemigo**, que para mi es el mejor juego de todos, mientras que en la novena sesión continuamos jugando al modo nuevo de **skull king** perfeccionando las nuevas reglas.
 
 En este nuevo modo de juego se añaden 4 cartas nuevas y 5 habilidades, una para cada pirata, dentro de las cartas nuevas, se encuentran:
 
@@ -63,7 +63,14 @@ En este nuevo modo de juego se añaden 4 cartas nuevas y 5 habilidades, una para
 ## Sesión 10
 ### *5 pepinos*
 
-En la sesión 10, Martín nos explicó un nuevo juego llamado **5 pepinos**
+En la sesión 10, Martín nos explicó un nuevo juego llamado **5 pepinos**, que al principio parecia un poco aburrido pero acabó siendo bastante divertido.
 
 ## Sesión 11
-### 
+### Día 1 trabajando en el diario
+
+En la sesión 11, nos dedicamos a empezar a escribir el diario en gitea, a pesar de haber avanzado mucho durante esta sesión, no logramos acabar el diario.
+
+## Sesión 12
+### Día 2 trabajando en el diario
+
+En la sesión 12, continuamos trabajando en el diario, en esta sesión tampoco logramos acabar el diario, por lo que decidimos entre todos que lo mejor sería acabarlo en casa.
